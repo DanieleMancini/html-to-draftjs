@@ -22,7 +22,7 @@
   },
   "peerDependencies": {
     "immutable": "3.x.x || 4.x.x",
-    "draft-js": "^0.10.x"
+    "draft-js": "^0.11.x"
   },
   "scripts": {
     "start": "react-scripts start",
