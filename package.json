@@ -11,11 +11,11 @@
     "babel-preset-react": "^6.24.1",
     "babel-preset-stage-0": "^6.24.1",
     "chai": "^4.1.2",
-    "draft-js": "^0.10.4",
+    "draft-js": "^0.11.x",
     "draftjs-to-html": "^0.7.6",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
-    "react-draft-wysiwyg": "^1.10.12",
+    "react-draft-wysiwyg": "1.15.0",
     "react-scripts": "1.0.17",
     "rimraf": "^2.6.2",
     "webpack": "^3.9.1"
