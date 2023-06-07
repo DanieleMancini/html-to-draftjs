@@ -15,7 +15,7 @@
     "draftjs-to-html": "^0.7.6",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
-    "react-draft-wysiwyg": "1.15.0",
+    "react-draft-wysiwyg": "github:DanieleMancini/react-draft-wysiwyg",
     "react-scripts": "1.0.17",
     "rimraf": "^2.6.2",
     "webpack": "^3.9.1"
